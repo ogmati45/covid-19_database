@@ -10,8 +10,8 @@ Dodatkowo została utworzona kolumna **daily cases (~weekly/7)** w celu oszacowa
 
 ### `data/` – Dane źródłowe  
 - **`weekly-covid-cases.csv`** – tygodniowe potwierdzone przypadki COVID-19 (Our World in Data / WHO)  
-- **`weekly-covid-cases.json`** – dane w formacie JSON  
-- **`daily-cases-estimated.csv`** – nowa tabela: szacowane przypadki dzienne (~weekly/7)  
+- **`weekly-covid-cases.json`** – informacje w formacie JSON  
+- **`daily-cases-estimated.csv`** – dane pobrane z World Data Base dot. zakażeń COVID-19
 
 ### `sql/` – Skrypty bazodanowe  
 - **`START.SQL`** – skrypt inicjalizujący strukturę bazy danych  
