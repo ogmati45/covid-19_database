@@ -23,9 +23,9 @@ Dodatkowo została utworzona kolumna **daily cases (~weekly/7)** w celu oszacowa
 - **`covid-19.pdf`** – raport końcowy  
 
 ### `excel/` – Excel, wizualizacje i raporty  
-- **`COVID-19.xlsx`** – dane w Excelu  
-- **`EXCEL 1.jpg`** – pierwsza strona wizualizacji
-- **`EXCEL 2.jpg`** – druga strona wizualizacji
+- **`COVID-19.xlsx`** – skoroszyt zawierający dane źródłowe oraz wstępne wizualizacje (wykresy, podsumowania, mapy)  
+- **Google Sheets link** – ze względu na rozmiar część danych została umieszczona w [Google Sheets](https://docs.google.com/spreadsheets/d/1ntZAMt8HbZd1j3JeC8DSYsBIi5DcLBqu/edit?usp=sharing&ouid=111474341172328682512&rtpof=true&sd=true) (możliwy podgląd i pobranie pełnego skoroszytu).  
+
   
 ---
 
