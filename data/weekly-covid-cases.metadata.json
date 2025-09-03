@@ -1,0 +1,43 @@
+{
+  "chart": {
+    "title": "Weekly confirmed COVID-19 cases",
+    "subtitle": "Weekly confirmed cases refer to the cumulative number of cases over the previous week.",
+    "citation": "World Health Organization (2025)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/weekly-covid-cases?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "United Kingdom",
+      "United States",
+      "Canada",
+      "Brazil",
+      "South Africa",
+      "South Korea",
+      "Italy",
+      "Mexico"
+    ]
+  },
+  "columns": {
+    "Weekly cases": {
+      "titleShort": "Weekly cases",
+      "titleLong": "Weekly cases",
+      "descriptionShort": "Cumulative number of confirmed cases of COVID-19 over the previous week. Counts can include probable cases, where reported.",
+      "descriptionKey": [
+        "_Confirmed_ cases represent the number of laboratory-confirmed COVID-19 infections as reported to WHO, but may not capture the true scale of infection due to varying testing strategies, case definitions, and underreporting.",
+        "Data are presented by date of reporting rather than symptom onset, and retrospective updates or corrections by countries can lead to sudden spikes or negative values.",
+        "Since WHO relies on Member State reporting, differences in local definitions, testing capacities, and reporting practices can affect international comparisons and trending over time.",
+        "We provide more detail on these points in [Cases of COVID-19: background](https://ourworldindata.org/covid-cases#cases-of-covid-19-background)."
+      ],
+      "unit": "cases",
+      "timespan": "",
+      "type": "Integer",
+      "owidVariableId": 954532,
+      "shortName": "weekly_cases",
+      "lastUpdated": "2025-08-17",
+      "nextUpdate": "2025-09-17",
+      "citationShort": "World Health Organization (2025) – processed by Our World in Data",
+      "citationLong": "World Health Organization (2025) – processed by Our World in Data. “Weekly cases” [dataset]. World Health Organization, “COVID-19 Dashboard WHO COVID-19 Dashboard - Daily cases and deaths” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/954532.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-08-17",
+  "activeFilters": {}
+}
